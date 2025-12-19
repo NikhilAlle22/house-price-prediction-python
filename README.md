@@ -1,4 +1,4 @@
-*# 🏠 House Price Prediction*
+* 🏠 House Price Prediction*
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-*## 🚀 Features*
+* 🚀 Features*
 
 *- Interactive web app built with \*\*Streamlit\*\**  
 
@@ -30,7 +30,7 @@
 
 
 
-*## 📂 Project Structure*
+* 📂 Project Structure*
 
 *house-price-prediction/*
 
@@ -56,7 +56,7 @@
 
 
 
-\## ⚙️ Tech Stack
+\ ⚙️ Tech Stack
 
 \- \*\*Python 3.x\*\*
 
@@ -72,7 +72,7 @@
 
 
 
-\## ▶️ How to Run
+\ ▶️ How to Run
 
 1\. Clone the repository:
 
